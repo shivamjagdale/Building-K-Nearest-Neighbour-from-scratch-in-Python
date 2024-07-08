@@ -6,3 +6,4 @@ We will give the user to choose from which distance he wants to use to calcualte
 
 Then we need to sort the distance values from min to max
 And then we can recommend the datapoints to our user. The user will manually enter the value for K.
+If you can't view the file for some reason or it shows some type of error download the file. 
